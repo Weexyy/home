@@ -39,7 +39,7 @@ const bgRandom = Math.floor(Math.random() * 10 + 1);
 // 更换壁纸链接
 const changeBg = (type) => {
   if (type == 0) {
-    bgUrl.value = "https://weexy.cn/api/random-img/all/api.php";
+    bgUrl.value = "https://blog.weexy.cn/api/random-img/all/api.php";
   } else if (type == 1) {
     bgUrl.value = "https://api.dujin.org/bing/1920.php";
   } else if (type == 2) {
