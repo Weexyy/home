@@ -11,7 +11,7 @@
   },
   {
     "icon": "CompactDisc",
-    "name": "Music",
+    "name": "音乐",
     "link": "https://music.weexy.cn/"
   },
   {
@@ -23,26 +23,6 @@
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.weexy.cn/"
-  },
-  {
-    "icon": "Calculator",
-    "name": "计算器",
-    "link": "https://calculator.weexy.cn/"
-  },
-  {
-    "icon": "Chalkboard",
-    "name": "画板",
-    "link": "https://draw.weexy.cn/"
-  },
-  {
-    "icon": "Book",
-    "name": "电子书",
-    "link": "https://reader.weexy.cn/"
-  },
-  {
-    "icon": "Robot",
-    "name": "Chat",
-    "link": "https://chat.weexy.cn/"
   }
 
 ]
