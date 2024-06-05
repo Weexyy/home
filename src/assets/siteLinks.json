@@ -15,6 +15,11 @@
     "link": "https://music.weexy.cn/"
   },
   {
+    "icon": "AppStoreIos",
+    "name": "APPs",
+    "link": "https://app.weexy.cn/"
+  },
+  {
     "icon": "Pen",
     "name": "访问统计",
     "link": "https://umami.weexy.cn/statistics"
